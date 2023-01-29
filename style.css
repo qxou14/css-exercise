@@ -49,6 +49,13 @@ body{
   
 }
 
+.text{
+  position: relative;
+  z-index: 10;
+  left:-70px;
+  top:-10px
+}
+
 
 
 
