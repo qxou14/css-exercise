@@ -46,6 +46,11 @@ body{
     left:-70px;
     top:-10px
   }
+
+  .btn{
+    width: 100px;
+    height: 50px;
+  }
   
   
   
